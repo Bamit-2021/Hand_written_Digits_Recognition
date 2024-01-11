@@ -26,6 +26,6 @@ No such challenges we have to face because it is an MNIST dataset, So No EDA we 
 
 ----
 
-For More Information Please review the full analysis in the final notebook.
+For More Information Please review the full analysis in the [final notebook](https://github.com/Bamit-2021/Hand_written_Digits_Recognition/blob/main/HandwrittenDigits.ipynb).
 
 For any additional questions, feel free to email me at patroamit358@gmail.com
